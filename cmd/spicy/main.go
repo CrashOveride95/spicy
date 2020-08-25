@@ -4,7 +4,7 @@ import (
 	flag "github.com/ogier/pflag"
 	log "github.com/sirupsen/logrus"
 	"github.com/trhodeos/n64rom"
-	"../.."
+	"github.com/CrashOveride95/spicy"
 	"io/ioutil"
 	"os"
 )
